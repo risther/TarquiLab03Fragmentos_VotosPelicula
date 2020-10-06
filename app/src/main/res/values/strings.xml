@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Elige tu Pelicula</string>
+    <string name="title1">PARASITE</string>
+
+    <string name="title2">SCOBYDOO</string>
+
+
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="pelicula1">PARASITE</string>
+    <string name="pelicula2">SCOBYDOO</string>
+    <string name="pelicula3">Votar otra vez</string>
+    <string name="question_article">VOTACION DE PELICULA</string>
+
+    <string name="open">Abrir</string>
+    <string name="cerrar">Close</string>
+
+    <string name="exception_message"></string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="open_txt">Vota</string>
+    <string name="total_txt">RESULTADOS</string>
+    <string name="close">CLOSE</string>
+
+
+</resources>
